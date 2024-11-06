@@ -7,3 +7,6 @@ Grupo:
 
 Site para usar imagens: 
 - https://pixabay.com/pt/
+
+Nome do site:
+Trip away
